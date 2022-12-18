@@ -1,2 +1,2 @@
-# MINE 432 Project
+# Quality Prediction of Iron Ore
  Repository for final project of MINE 432
